@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-tut",
+  "version": "1.0.0",
+  "description": "Node tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node webdev\\app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srv48/nodejs-tut.git"
+  },
+  "author": "Sourav B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srv48/nodejs-tut/issues"
+  },
+  "homepage": "https://github.com/srv48/nodejs-tut#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
